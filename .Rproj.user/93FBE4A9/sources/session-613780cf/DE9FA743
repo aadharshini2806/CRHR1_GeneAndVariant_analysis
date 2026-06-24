@@ -1,0 +1,27 @@
+{
+    "id": "DE9FA743",
+    "path": "C:/Bioinformatics_miniprojects/CRHR1_Variant_analysis/CRHR1_Variant_analysis/MergeGWAS_VEP_and_filterfinalVEP.R",
+    "project_path": "MergeGWAS_VEP_and_filterfinalVEP.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1782188150680.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "26,0",
+        "scrollLine": "19"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1782291910,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1782291997628,
+    "read_only": false,
+    "read_only_alternatives": []
+}

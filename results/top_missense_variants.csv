@@ -1,0 +1,8 @@
+"Variant_ID","Consequence","SIFT","PolyPhen","CADD_PHRED","AF","CLIN_SIG","REVEL"
+"rs1252219531","missense_variant","deleterious_low_confidence(0.01)","probably_damaging(0.992)","37","-","-","0.46300000000000002"
+"rs200468311","missense_variant","deleterious_low_confidence(0)","possibly_damaging(0.735)","32","2.0000000000000001E-4","uncertain_significance","0.26"
+"rs750934628","missense_variant","deleterious_low_confidence(0)","probably_damaging(0.996)","32","-","-","0.29699999999999999"
+"rs767268155","missense_variant","deleterious_low_confidence(0.01)","possibly_damaging(0.85)","28","-","-","0.28299999999999997"
+"rs767268155","missense_variant","deleterious_low_confidence(0)","probably_damaging(0.978)","33","-","-","0.47099999999999997"
+"rs530958757","missense_variant","deleterious_low_confidence(0)","probably_damaging(0.957)","32","4.0000000000000002E-4","-","0.252"
+"rs530958757","missense_variant","deleterious_low_confidence(0)","probably_damaging(0.958)","31","-","-","0.38200000000000001"
