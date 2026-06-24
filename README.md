@@ -2,13 +2,21 @@
 
 Objective:
 
-To Investigate the variants associated with the cortisol Reseasing Hormone Receptor 1(CRHR1) gene and uncover their biological significance
+To Investigate the variants associated with the cortisol Reseasing Hormone Receptor 1(CRHR1) gene and to uncover their biological significance.
 
 Workflow:
 
 Choose the gene -> Get all variants from Ensembl -> Extract only the rsIDs and paste in VEP -> Analyse annotation scores(SIFT, PolyPhen, CADD, REVEL) -> Check any match in GWAS associations for CRHR1 -> Regulomedb to check which variants are in regulatory sequences -> New analysis in Ensembl VEP -> Missense consequence (moderate), check if variant is deletorious and damaging(scores) -> Biological Interpretation
 
+Tools:
+
+Ensembl, Ensembl-VEP, GWAS Catalog, Regulomedb, R Studio
+
 Results:
+
+Out of the 216 deletorious variants filtered from Ensembl-VEP, only 89 were unique, from which only 76 variants were evaluated by Regulomedb. Among 79, only 5 variants had a near top rank of 2b. After further VEP analysis of these 5 variants, only 1 variant had been evaluated as VUS. All the 5 variants had several transcripts out of which, the missense consequence had moderate impact and was considered for evaluation.
+
+Discussion:
 
 None of the variants obtained in Ensembl was found in ClinVar, since it shows data that are only clinically evaluated. Moreover, after a simple analysis in R, it has been found that there are no matches with the GWAS association data. This reveals that CHRH1 gene variants are not clinically studied and observed in a typical population. 
 
